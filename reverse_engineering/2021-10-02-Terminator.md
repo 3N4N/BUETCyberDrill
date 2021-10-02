@@ -120,12 +120,12 @@ The compare instruction is as in the following.
 Now, set the memory at `$rbp-0xb8` to 0x0 and continue the program.
 
 ```gdb
-gef> x/x $rbp-0xb8
+gef➤ x/x $rbp-0xb8
 0x7fffffffe388: 0x00000074
-gef> set *0x7fffffffe388 = 0x0
-gef> x/x $rbp-0xb8
+gef➤ set *0x7fffffffe388 = 0x0
+gef➤ x/x $rbp-0xb8
 0x7fffffffe388: 0x00000000
-gef> continue
+gef➤ continue
 Continuing.
 > 7e5671326f1c4b80cfb75134471eb2 <
 [Inferior 1 (process 298) exited normally]
