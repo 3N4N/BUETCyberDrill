@@ -1,6 +1,6 @@
 # Terminator
 
-Author: Enan Ajmain - 1605018
+Author: Enan Ajmain
 
 ## Description
 
