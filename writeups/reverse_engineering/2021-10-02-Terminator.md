@@ -6,7 +6,7 @@ Author: Enan Ajmain
 
 Don't come with me if you want to live.
 
-Please find the flag from the attached [file](../assets/ctf_files/TERMINATOR)
+Please find the flag from the attached [file](../../assets/ctf_files/TERMINATOR)
 
 The format of this flag is UNICTF{flag}
 
