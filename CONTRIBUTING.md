@@ -79,6 +79,6 @@ Check [this file][5] for an example of how to write your article.
 
 [1]: https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 [2]: https://stefanbauer.me/articles/how-to-keep-your-git-fork-up-to-date
-[3]: https://github.com/3N4N/ctf_core-dump/pulls
+[3]: https://github.com/3N4N/ctf_dump/pulls
 [4]: https://github.com/3N4N
 [5]: writeups/reverse_engineering/2021-07-11-picoctf-104.md
